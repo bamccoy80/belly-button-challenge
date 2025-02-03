@@ -1,0 +1,1 @@
+This project explores the Belly Button Biodiversity dataset, which catalogs the microbial species that inhabit human navels. The dataset provides a look into the diversity of microbes, identifying both the most common and rare species present in the belly buttons of individuals. 
